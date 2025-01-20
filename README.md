@@ -1,7 +1,3 @@
-Berikut adalah teks README untuk proyek Anda dalam format yang sederhana:
-
----
-
 # Movie-Sentimen-Analyze_DataMining_SubProject
 
 Proyek ini adalah aplikasi analisis sentimen ulasan film yang dikembangkan untuk mendeteksi apakah ulasan yang diberikan bersifat **positif** atau **negatif**. Proyek ini menggunakan **Support Vector Machine (SVM)** sebagai model klasifikasi, yang dilatih menggunakan dataset ulasan film dari IMDb.
